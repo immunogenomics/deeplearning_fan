@@ -1,23 +1,25 @@
 # deeplearning
 
-In this repository, I focus on 
+In this repository, 
 
-### Developing and comparing variational inference based deep learning methods for the purpose of multiple datasets integration
+### I focus on 
 
-#### Variational auto-encoder, Hyperspherical Variational Auto-Encoders, VampPrior variational auto-encoder
+1. Developing and comparing variational inference based deep learning methods for the purpose of multiple datasets integration
 
-#### Multi-CCA, Deep CCA, Deep variational CCA
+- Variational auto-encoder, Hyperspherical Variational Auto-Encoders, VampPrior variational auto-encoder
 
-### Applying the developed methods to resovle the heterogeneity in large-scale immune and stroma cells. For example, single-cell RNA-seq.
+- Multi-CCA, Deep CCA, Deep variational CCA
+
+2. Applying the developed methods to resovle the heterogeneity in large-scale immune and stroma cells. For example, single-cell RNA-seq.
 
 ### Resouce
 
 Most of the knowledge that I am learning are from 
 
-Keras: https://github.com/keras-team/keras
+- Keras: https://github.com/keras-team/keras
 
-Wang, Weiran: Machine Learning Scientist, Amazon Alexa
+- Wang, Weiran: Machine Learning Scientist, Amazon Alexa
 
-Jeremy Jordan: https://www.jeremyjordan.me/
+- Jeremy Jordan: https://www.jeremyjordan.me/
 
 
