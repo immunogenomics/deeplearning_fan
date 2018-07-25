@@ -5,9 +5,9 @@
 
 **Developing and comparing** variational inference based deep learning methods for the purpose of multiple datasets integration
 
-- Variational auto-encoder, Hyperspherical Variational Auto-Encoders, VampPrior variational auto-encoder
+- Variational auto-encoder, Hyperspherical variational auto-encoders, VampPrior variational auto-encoder
 
-- Multi-CCA, Deep CCA, Deep variational CCA
+- Multi-CCA (canonical correlation analysis), Deep CCA, Deep variational CCA
 
 **Applying** the developed methods to resovle the heterogeneity in large-scale immune and stroma cells. For example, single-cell RNA-seq.
 
